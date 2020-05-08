@@ -1,6 +1,6 @@
 * blog
-- [[https://github.com/gdqs1993/blog/master/software.org][常用网站&软件]]
-- [[https://github.com/gdqs1993/blog/master/%E5%B9%B4%E4%BB%BD%E6%8D%A2%E7%AE%97.org][年份换算]]
-- [[https://github.com/gdqs1993/blog/master/vlookup.org][vlookup函数]]
-- [[https://github.com/gdqs1993/blog/master/countif.org][countif函数]]
-- [[https://github.com/gdqs1993/blog/master/excel%E6%8A%93%E9%98%84.org][excel抓阄]]
+- [[https://github.com/gdqs1993/blog/blob/master/software.org][常用网站&软件]]
+- [[https://github.com/gdqs1993/blog/blob/master/%E5%B9%B4%E4%BB%BD%E6%8D%A2%E7%AE%97.org][年份换算]]
+- [[https://github.com/gdqs1993/blog/blob/master/vlookup.org][vlookup函数]]
+- [[https://github.com/gdqs1993/blog/blob/master/countif.org][countif函数]]
+- [[https://github.com/gdqs1993/blog/blob/master/excel%E6%8A%93%E9%98%84.org][excel抓阄]]
