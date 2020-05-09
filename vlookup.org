@@ -1,6 +1,7 @@
 # Created 2020-05-08 Fri 13:58
 #+TITLE:
 #+AUTHOR: spqr
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
 * vlookup函数
 ** 必备函数简介
 *** Vlookup函数

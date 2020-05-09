@@ -4,3 +4,4 @@
 - [[https://github.com/gdqs1993/blog/blob/master/vlookup.org][vlookup函数]]
 - [[https://github.com/gdqs1993/blog/blob/master/countif.org][countif函数]]
 - [[https://github.com/gdqs1993/blog/blob/master/excel%E6%8A%93%E9%98%84.org][excel抓阄]]
+- [[https://github.com/gdqs1993/blog/blob/master/vlookup.html][vlookup函数]]
